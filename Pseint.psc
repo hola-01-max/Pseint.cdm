@@ -3,6 +3,6 @@ Proceso sin_titulo
 	Escribir "Dame un numero"
 	Leer a
 	Si (a mod 2=0) entonces
-		
+		Escribir "Si es multiplo de 2"
 	FinSi
 FinProceso
