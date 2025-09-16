@@ -4,5 +4,7 @@ Proceso sin_titulo
 	Leer a
 	Si (a mod 2=0) entonces
 		Escribir "Si es multiplo de 2"
+    SiNo
+        Escribir "no es multiplo de 2"
 	FinSi
 FinProceso
